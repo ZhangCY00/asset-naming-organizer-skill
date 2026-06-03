@@ -1,0 +1,4 @@
+interface:
+  display_name: "Asset Naming Organizer"
+  short_description: "Professional naming for mixed creative assets."
+  default_prompt: "Use $asset-naming-organizer to audit this asset folder and propose professional filenames."
